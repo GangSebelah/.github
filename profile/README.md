@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://discord.com/api/guilds/773707418482769982/widget.png?style=shield" alt="Discord Shield"/>
+![Discord Banner 2](https://discord.com/api/guilds/773707418482769982/widget.png?style=banner2)
 
 <!--
 
