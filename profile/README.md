@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-https://discord.gg/gangsebelah
+<img src="https://discord.com/api/guilds/773707418482769982/widget.png?style=shield" alt="Discord Shield"/>
 
 <!--
 
