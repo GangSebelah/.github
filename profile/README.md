@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+https://discord.gg/gangsebelah
+
 <!--
 
 **Here are some ideas to get you started:**
